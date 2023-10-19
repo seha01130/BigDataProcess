@@ -1,4 +1,0 @@
-src main webapp 부분이 root
-index.htm에 링크들 모여있음
-WEB-INF 는 웹에서 주소쳐서 접근 못해
-근데 서블릿 코드에서는 지정해서 포워딩 가능
